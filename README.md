@@ -27,7 +27,7 @@
   <img align="center" alt="Angular" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
  </div><br/>
 
- ![snake gif](https://github.com/lidialima/lidialima/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/lidialima/lidialima/blob/output/github-contribution-grid-snake.svg) 
 
 Apaixonada por tecnologia, e por mudar a vida das pessoas através da programação.
 
