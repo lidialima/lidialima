@@ -31,3 +31,5 @@ Apaixonada por tecnologia, e por mudar a vida das pessoas através da programaç
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADdia-limati/)
+
+ ![snake gif](https://github.com/lidialima/lidialima/blob/output/github-contribution-grid-snake.gif)
