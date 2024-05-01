@@ -28,7 +28,7 @@
  </div><br/>
 
 
-![Snake animation](https://github.com/lidialima/lidialima/blob/output/github-contribution-grid-snake.svg)
+
 
 
 Apaixonada por tecnologia, e por mudar a vida das pessoas através da programação.
