@@ -8,7 +8,7 @@
 
 - 🔭 Hoje trabalho na TI da Unimed Fortaleza
 - 🌱 Estudando Typescript
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela :octocat:
 
 <div>
  <a href="https://github.com/lidialima">
