@@ -7,7 +7,8 @@
 </div> 
 
 - 🔭 Hoje trabalho na TI da Unimed Fortaleza
-- 🌱 Estudando Typescript
+- 🌱 Estudando JavaScript
+- 💜 Aluna DevClub
 - 😄 Pronouns: ela/dela :octocat:
 
 <div>
